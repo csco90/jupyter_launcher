@@ -11,5 +11,5 @@ This program was created using Windows form so it is limited to Windows users.
 - From the Dialog box click on "More Apps" and then "Look for another app in this PC"
 - Look for the location where you have stored this app and select it
 
-## Then you are ready to roll!
+## You are ready to roll!
 
